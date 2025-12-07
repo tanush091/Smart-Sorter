@@ -1,0 +1,2 @@
+Run the python file named sorter.py in the smart sorter folder. 
+After running we need to provide a file path were we have to sort the files and perform the Actions.
